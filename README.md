@@ -1,14 +1,14 @@
-# < PHP를 이용한 홈페이지 제작 >  
+# <center> < PHP를 이용한 홈페이지 제작 > </center>  
 
 ---
 
-### < 메인 페이지 >  
+### <center>< 메인 페이지 ></center>  
 
-⬇︎ 배경 동영상에 roop 옵션을 줘서 삽입 ⬇︎
-
+<center> ⬇︎ 배경 동영상에 roop 옵션을 줘서 삽입 ⬇︎ </center>  
+  
 ![1](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/a0f024be-1547-4ff4-8876-e0e312bb6f6a)  
 
-⬇︎ 스크롤하는 방식으로 페이지 구성⬇︎    
+⬇︎ 스크롤하는 방식으로 페이지 구성 ⬇︎    
 
 ![2](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/65c11546-cb8c-499b-abac-41861d1ee959)  
 
@@ -22,7 +22,11 @@
 
 ### < 게시판 페이지 >  
 
+⬇︎ 게시판 글 목록 페이지 ⬇︎  
+
 ![board](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/ee305f75-ec8a-40de-be86-f16c30a3e284)  
+
+⬇︎ 게시판 글 작성 페이지 ⬇︎  
 
 ![board1](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/34b68480-3be3-4970-a7a0-12b783ace165)  
 
