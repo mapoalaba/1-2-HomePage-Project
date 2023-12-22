@@ -36,9 +36,30 @@
   
 <center> ⬇︎ 비밀 게시글 클릭 시 페이지 ⬇︎ </center>  <br><br>
   
-![board3](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/388a4dfd-f4b2-4a50-8515-625cc8ee553f)  <br><br>
+![board3](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/388a4dfd-f4b2-4a50-8515-625cc8ee553f)  <br><br>  
   
 <center> ⬇︎ 게시글 ⬇︎ </center>  <br><br>
   
-![board4](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/cc607c2f-39e1-4d51-bca0-dfe135e5d7f2)  <br><br>
+![board4](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/cc607c2f-39e1-4d51-bca0-dfe135e5d7f2)  <br><br>  
+
+---
+
+### < 로그인 페이지 >  <br><br>  
+
+<center> ⬇︎ 로그인 폼 ⬇︎ </center>  <br><br>
+
+![login](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/9b75c0bb-3e03-4713-8501-cbdedd306637)  <br><br>  
+
+---
+
+### < 회원가입 페이지 >  <br><br>
+
+<center> ⬇︎ 회원가입 폼 ⬇︎ </center>  <br><br>
+
+![signup](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/ca14dfbd-0e2b-4888-8e90-5517a4824a1f)  <br><br>  
+
+---
+
+
+
 
