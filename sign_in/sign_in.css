@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+* input{
+    color: #000;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+    background: black;
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+#nav{
+    height: 130px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    gap: 50px;
+    position: fixed;
+    justify-content: flex-start;
+    z-index: 99;
+}
+#nav img{
+    height: 6.5vw;
+    cursor: pointer;
+}
+#nav h4{
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 1.15vw;
+}
+#nav h4:hover{
+    color: #95C11E;
+}
+a{
+    text-decoration-line : none;
+}
+#links{
+    margin-left: 550px;
+    padding-left: 250px;
+}
+#links i{
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+}
+#links i:hover{
+    color: #95C11E;
+}
+form{
+	width: 500px;
+	border: 2px solid #95C11E;
+	padding: 30px;
+	background: #fff;
+	border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 90%;
+}
+video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+    position: fixed;
+    filter: brightness(40%)
+}
+input {
+	display: block;
+	border: 2px solid #95C11E;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+label {
+	color: #95C11E;
+	font-size: 18px;
+	padding: 10px;
+}
+button {
+	float: right;
+	background: #80ac08;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+}
+button:hover{
+	opacity: .7;
+    cursor: pointer;
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.success {
+   background: #fff;
+   color: #fff;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+.ca {
+	font-size: 14px;
+    font-weight: 00;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: #95C11E;
+}
+.ca:hover {
+	text-decoration: underline;
+}
+form h2 {
+	text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+	margin-bottom: 40px;
+    color: #95C11E;
+}
