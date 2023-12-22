@@ -2,11 +2,11 @@
 
 ### 메인페이지  
 
-배경 동영상에 roop 옵션을 줘서 삽입
+⬇︎ 배경 동영상에 roop 옵션을 줘서 삽입 ⬇︎
 
 ![1](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/a0f024be-1547-4ff4-8876-e0e312bb6f6a)  
 
-스크롤하는 방식으로 페이지 구성  
+⬇︎ 스크롤하는 방식으로 페이지 구성⬇︎    
 
 ![2](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/65c11546-cb8c-499b-abac-41861d1ee959)  
 
