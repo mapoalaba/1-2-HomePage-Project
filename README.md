@@ -30,9 +30,15 @@
 
 ![board1](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/34b68480-3be3-4970-a7a0-12b783ace165)  
 
+<center> ⬇︎ 게시글 검색 기능 ⬇︎ </center>
+
 ![board2](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/f79f604d-fa12-4fdf-bd72-97ce1eb284c1)  
 
+<center> ⬇︎ 비밀 게시글 클릭 시 페이지 ⬇︎ </center>
+
 ![board3](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/388a4dfd-f4b2-4a50-8515-625cc8ee553f)  
+
+<center> ⬇︎ 게시글 ⬇︎ </center>
 
 ![board4](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/cc607c2f-39e1-4d51-bca0-dfe135e5d7f2)  
 
