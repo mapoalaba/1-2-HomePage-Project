@@ -2,7 +2,7 @@
 
 ---
 
-### 메인 페이지  
+### < 메인 페이지 >  
 
 ⬇︎ 배경 동영상에 roop 옵션을 줘서 삽입 ⬇︎
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 게시판 페이지
+### < 게시판 페이지 >  
 
 ![board](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/ee305f75-ec8a-40de-be86-f16c30a3e284)  
 
