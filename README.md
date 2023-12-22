@@ -70,7 +70,7 @@
 
 ### < 정보 수정 페이지 > <br><br>
 
-<center> ⬇︎ 비밀번호 변경 가능 ⬇︎ </center>  <br><br>
+<center> ⬇︎ 비밀번호 변경 가능 ⬇︎ </center>  <br><br>
 
 ![edit](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/e3a68043-6d64-4c2d-8616-1d5779996342)  <br><br>
 
