@@ -62,7 +62,7 @@
 
 ### < 로그인 후 메인 페이지 > <br><br>
 
-<center> ⬇︎ 로그아웃과 정보 수정 버튼이 생김 ⬇︎ </center>  <br><br>
+<center> ⬇︎ 로그아웃과 정보 수정 버튼이 생김 ⬇︎ </center>  <br><br>
 
 ![loginmain](https://github.com/mapoalaba/1-2-HomePage-assignment/assets/108310158/633c0293-c5d7-4898-89d9-dc307dd606c6) <br><br>
 
